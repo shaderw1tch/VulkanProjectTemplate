@@ -206,5 +206,7 @@
     <None Include="..\Project1\fragment.frag">
       <Filter>Source Files\Shaders</Filter>
     </None>
+    <None Include="packages.config" />
+    <None Include=".gitignore" />
   </ItemGroup>
 </Project>
